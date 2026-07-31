@@ -1,0 +1,9 @@
+{
+  "name": "servidor-trivia-ia",
+  "version": "1.0.0",
+  "description": "Servidor intermediario para juego de trivia con IA",
+  "main": "index.js",
+  "dependencies": {
+    "@google/genai": "^0.1.1"
+  }
+}
